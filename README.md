@@ -4,4 +4,4 @@
   - Intro to numpy
 
 [Homework 2](https://github.com/brettfazio/AI-Homework/tree/master/HW_2)
-  - Graphing function, Gradient Descent, MNIST data set graphing
+  - Graphing functions, Gradient Descent, MNIST data set graphing
