@@ -1,4 +1,4 @@
-**This will contain my notebooks for Homework 2**
+**This folder contains my Colab notebooks for Homework 2**
 
 Links to the problem Google colab notebooks:
 
