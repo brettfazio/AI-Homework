@@ -6,4 +6,4 @@ This folder contains my Colab notebooks for Homework 4
 
 Problem 3
 - [First notebook](https://colab.research.google.com/drive/1O1hvDELqlPM3Ybg7LYfHcS2M73zI-FPg)
-- Second notebook
+- [Second notebook](https://colab.research.google.com/drive/1rl5H-I2Dvs0UvMId8d0AUaBT_ianhf0k)
